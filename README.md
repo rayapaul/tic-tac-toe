@@ -1,6 +1,6 @@
 # **Topic - Tic-Tac-Toe Game**
 
-### [Click Here to View](rayapaul-tictactoe-game.netlify.app)
+### [Click Here to View](raya-tictactoe.netlify.app)
 
 ## Description-
 
